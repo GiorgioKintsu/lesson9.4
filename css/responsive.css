@@ -1,0 +1,203 @@
+/* header */
+@media (max-width: 867px){
+    .header{
+        max-width: 600px;
+        width: 80%;
+        padding: 0;
+        margin: 40px;
+    }
+    .logo{
+        font-size: 25px;
+    }
+    .navigatsia{
+        font-size: 15px;
+        max-width: 350px;
+    }
+}
+@media (max-width: 600px){
+    .logo{
+        font-size: 20px;
+    }
+    .navigatsia{
+        display: none;
+    }
+   .fas{
+    display: inline;
+   }
+}
+/* section */
+@media (max-width:1540px){
+    .lsidetitle{
+        font-size: 62px;
+    }
+    .lsideparagraph{
+        max-width: 370px;
+        width: 100%;
+    }
+}
+@media (max-width:1230px){
+    .topsection{
+        margin-top: 130px;
+    }
+    .lsidetitle{
+        font-size: 40px;
+    }
+    .lsideparagraph{
+        max-width: 270px;
+        width: 100%;
+    }
+    .bluebox{
+        width: 200px;
+        height: 60px;
+    }
+}
+@media (max-width:810px){
+    .topsection{
+        margin-top: 100px;
+    }
+    .lsidetitle{
+        font-size: 30px;
+    }
+    .lsideparagraph{
+        font-size: 15px;
+        max-width: 220px;
+        width: 100%;
+    }
+    .bluebox{
+        width: 150px;
+        height: 40px;
+    }
+    .bluebox p{
+        font-size: 16px;
+    }
+}
+@media (max-width: 580px){
+    .topsection{
+        margin-top: 40px;
+    }
+    .lsidetitle{
+        font-size: 15px;
+    }
+    .lsideparagraph{
+        font-size: 10px;
+        max-width: 170px;
+        width: 100%;
+    }
+    .bluebox{
+        width: 100px;
+        height: 30px;
+    }
+    .bluebox p{
+        font-size: 10px;
+    }
+    .rightside img{
+        max-width: 250px;
+        width: 100%;
+    }
+    .bluebox img{
+        width: 15px;
+        margin-right: 5px;
+    }
+}
+/* section */
+@media(max-width:1230px){
+    .services{
+        margin-top: 150px;
+    }
+}
+@media(max-width:750px){
+    .services{
+        margin-top: 80px;
+    }
+    .offer{
+        font-size: 16;
+        max-width: 550px;
+        width: 90%;
+    }
+    .bottomshead h3{
+        font-size: 38px;
+    }
+}
+@media(max-width:580px){
+    .services{
+        font-size: 13px;
+        margin-top: 30px;
+    }
+    .bottomshead h3{
+        font-size: 20px;
+        margin-top: 5px;
+        margin-bottom: 8px;
+    }
+    .offer{
+        max-width: 350px;
+        width: 90%;
+    }
+}
+/* bottom side */
+@media (max-width: 1234px){
+    .bottomside{
+        max-width: 800px;
+        width: 100%;
+    }
+}
+@media (max-width: 836px){
+    .bottomside{
+        max-width: 620px;
+        width: 100%;
+    }
+    .boxes{
+        max-width: 280px;
+        width: 100%;
+        height: 380px;
+        margin: 15px;
+    }
+    .boxes img{
+        max-width: 80px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .boxes h5{
+        font-size: 18px;
+    }
+    .boxes p{
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .whitebox{
+        max-width: 100px;
+        width: 100%;
+        height: 35px;
+    }    
+}
+@media (max-width: 660px){
+    .bottomside{
+        max-width: 260px;
+        width: 100%;
+    }
+    .boxes{
+        max-width: 250px;
+        width: 100%;
+        height: 300px;
+    }
+    .boxes img{
+        max-width: 50px;
+        width: 100%;
+        margin-top: 0px;
+    }
+    .boxes h5{
+        font-size: 16px;
+    }
+    .boxes p{
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .whitebox{
+        max-width: 70px;
+        width: 100%;
+        height: 25px;
+    }
+    
+}
+
+
+
